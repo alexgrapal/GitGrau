@@ -1,6 +1,6 @@
 # GitGrau
 Git test
-## Hola Hola
+## Hola, esto es una introducción de mi trabajo
 ### Hola Hola
 ## Description : Prueba GitHub
 **Escuela Monlau**
